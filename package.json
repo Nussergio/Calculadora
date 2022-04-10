@@ -2,7 +2,7 @@
   "name": "calculadora",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nussergio.github.io/calculadora",
+  "homepage": "http://Nussergio.github.io/Calculadora",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
